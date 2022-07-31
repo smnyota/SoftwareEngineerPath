@@ -21,7 +21,7 @@ test();
 
 setTimeout(() => image.src = 'img/images_0.jpg', 5000);
 setTimeout(() => image.src = 'img/images_1.jpg', 5000);
-
+/////////I should probably explain what is occuring in the code above, it is the front image slide show. I'm taking the lazy approach and just making the images the same size so the webpage doesnt shift around...
 
 
 /* Button for the key - Already done! 
