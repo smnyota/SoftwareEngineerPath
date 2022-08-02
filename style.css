@@ -6,3 +6,6 @@ html, body {
 iframe {
   margin: auto;
 }
+article:hover{
+  opacity: 0.5;
+}
